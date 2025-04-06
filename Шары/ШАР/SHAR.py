@@ -3,7 +3,7 @@ import math
 from PyQt5 import QtWidgets
 from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg
 from matplotlib.figure import Figure
-from LizaSHAR1 import Ui_MainWindow
+from SHAR1 import Ui_MainWindow
 
 
 class MyWindow(QtWidgets.QMainWindow, Ui_MainWindow):
