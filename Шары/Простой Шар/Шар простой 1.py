@@ -1,7 +1,7 @@
 import sys
 from PyQt5 import QtCore, QtGui, QtWidgets
 from math import sqrt
-from LizaSHAproto1 import Ui_MainWindow
+from SHAproto1 import Ui_MainWindow
 
 
 class BallFallCalculator(QtWidgets.QMainWindow):
